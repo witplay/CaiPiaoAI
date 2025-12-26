@@ -1,0 +1,50 @@
+# 体彩排列3预测项目依赖包
+# 基于当前Python 3.10.11 + TensorFlow 2.10.1环境的实际版本
+# 生成时间: 2025-12-26
+# 当前环境: tensorflow9 (Python 3.10.11)
+
+# 深度学习框架
+tensorflow==2.10.1
+
+# 数值计算
+numpy==1.24.2
+
+# 机器学习工具
+scikit-learn==1.2.2
+
+# 自动机器学习
+autokeras>=1.0.0
+
+# 超参数调优
+keras-tuner==1.4.5
+
+# 数据库连接
+pymssql==2.2.7
+
+# 模型序列化
+joblib==1.2.0
+
+# 数据可视化
+matplotlib==3.7.1
+
+# 图形格式支持
+Pillow==9.4.0
+
+# 进度条显示
+tqdm==4.67.1
+
+# 额外的数值和统计库
+pandas==1.5.3
+scipy==1.10.1
+
+# 配置管理
+PyYAML==6.0.3
+
+# 日期时间处理
+python-dateutil==2.8.2
+
+# 日志记录
+loguru>=0.6.0
+
+# 额外实用库
+pathlib>=1.0.1
